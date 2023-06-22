@@ -3,7 +3,7 @@ A Shortcut to Windows Features. A convenient way for those who need to access it
 
 ![Windows Features](https://github.com/Kilp22/Windows-Features-shortcut/assets/119540837/5d260087-9044-4a00-8497-c6d915941f8e)
 
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'L4L7MI5WQ');kofiwidget2.draw();</script> 
 
 **How to create a shortcut to "Windows features" directly, by yourself, Here're the steps:**
 
