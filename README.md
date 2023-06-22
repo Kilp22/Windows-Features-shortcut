@@ -3,7 +3,8 @@ A Shortcut to Windows Features. A convenient way for those who need to access it
 
 I use this on Windows 10.
 
-![Windows Features](https://github.com/Kilp22/Windows-Features-shortcut/assets/119540837/5d260087-9044-4a00-8497-c6d915941f8e)
+![Windows Features](https://github.com/Kilp22/Windows-Features-shortcut/assets/119540837/0d135c25-6892-4e0e-8af4-a498ac5978d1)
+
 
 <a href='https://ko-fi.com/L4L7MI5WQ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
