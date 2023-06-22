@@ -1,0 +1,16 @@
+To create a shortcut to "Windows features" directly, Here're the steps:
+
+1. Right-click on an empty area of your desktop or any desired location.
+2. From the context menu, choose "New" and then "Shortcut"
+3. In the "Create Shortcut" window that appears,
+    enter the following command in the location field:
+
+explorer.exe shell:::{67718415-c450-4f3c-bf8a-b487642dc39b}
+
+4. Click "Next"
+5. Provide a name for the shortcut, such as "Windows Features"
+    or "Windows Features Shortcut"
+6. Click "Finish"
+
+
+
