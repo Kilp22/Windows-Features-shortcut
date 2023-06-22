@@ -31,6 +31,7 @@ Or Download from "Release"
 
 
 **What can be done in "Windows features"?**
+
 I myself need to toggle Virtual Machine Platform on and off often, for my Skyrim mod. So that's the main reason for me.
 (Since Turning on the Virtual Machine Platform makes my PC uses a lot of RAM.)
 
