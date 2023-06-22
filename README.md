@@ -30,6 +30,14 @@ explorer.exe shell:::{67718415-c450-4f3c-bf8a-b487642dc39b}
 Or Download from "Release"
 
 
+**Usage:**
+-Place anywhere you like
+-Double click it to access "Windows Features".
+-After disabling the VMP, need to restart. Done
+
+
+
+
 **What can be done in "Windows features"?**
 
 I myself need to toggle Virtual Machine Platform on and off often, for my Skyrim mod. So that's the main reason for me.
